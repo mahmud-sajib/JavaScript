@@ -2,9 +2,9 @@
 
 1. When we have different data types and we mix them together javaScript automatically figures out which data type it should convert and then convert them all to the same data type. This process is called type coersion
 
-2. JavaScript is a dynamically typed language & it's vatiable's values can be changed at a later time which is known as variable mutation
+2. JavaScript is a dynamically typed language & it's variable's values can be changed at a later time which is known as variable mutation
 
-3. The prompt() method displays a prompt box which ask the user for some sorts of input
+3. The prompt() method displays a prompt box which ask the user for some sort of inputs
 
 4. The alert() method displays an alert box with a specified message
 
